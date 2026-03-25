@@ -29,7 +29,7 @@ The plugin is designed to be compatible with major membership and e-commerce pla
 
 ## Installation
 
-1. Upload the `roleflow` folder to the `/wp-content/plugins/` directory.
+1. Extract the `Z-gatekeep-wp.zip` folder to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Navigate to **Settings > Login Redirect** to configure your rules.
 
