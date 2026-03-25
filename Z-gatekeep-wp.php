@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Zyron Login Redirect
+ * Plugin Name: Z Gatekeep Wp
  * Plugin URI:  https://zyron-portfolio.vercel.app/
  * Description: Configure login redirection for any user role. Set where each user type lands after a successful login — from any login form. Also redirect users away from restricted URLs based on their role.
  * Version:     2.0.0
